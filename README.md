@@ -1,9 +1,11 @@
 # Web_scrapping
 
-#This use BeautifulSoup module
+#This is using BeautifulSoup python module
 
 
 #It has done for 2 html sources
 
-# i). on sample.hmtl file
-# ii). on Real time website
+#i). on sample.hmtl file
+#ii). on Real time website
+
+#Result will be stored in a CSV file
